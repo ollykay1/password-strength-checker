@@ -5,7 +5,7 @@ import PasswordChecker from './pages/PasswordChecker'
 const App = () => {
   return (
     <div>
-     <StrengthMeter/>
+     {/* <StrengthMeter/> */}
     
       <PasswordChecker/>
       {/* <passwordUtils/> */}

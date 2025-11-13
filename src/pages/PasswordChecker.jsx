@@ -16,6 +16,7 @@ const PasswordChecker = () => {
 
   return (
     <section className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col justify-center items-center p-6">
+     {/* <div><h2 className="bg-red-900 text-gray-900 dark:text-white text-center mb-4">cong</h2></div> */}
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
